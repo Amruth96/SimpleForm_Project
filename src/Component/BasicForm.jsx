@@ -58,7 +58,7 @@ function BasicForm() {
         display: 'flex',
         flexDirection: 'column',
         alignItems: 'center',
-        gap: 2,
+        gap: 3,
         maxWidth: 400,
         margin: 'auto',
         padding: 2,
@@ -66,7 +66,7 @@ function BasicForm() {
         borderRadius: '8px',
       }}
     >
-      <Typography variant="h5">Basic Form</Typography>
+      <Typography variant="h5">Form</Typography>
 
       <TextField
         label="Name"
